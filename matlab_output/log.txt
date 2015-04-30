@@ -1,0 +1,6 @@
+kenmore_mid_20 used 3 output states. lower_40 quantiles, mid 20, and upper 40.
+
+kenmore_mid50 used 3 output states. lower_25, mid_50, upper 25
+
+kenmore_fifteen used 3 output states; lower_fifteen, middle 70, upper_fifteen. Performed decently well. Much better than previous two
+
